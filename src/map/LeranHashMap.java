@@ -3,6 +3,9 @@ package map;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @Author Chaitanya Kumar
+ */
 public class LeranHashMap {
 
     public static void main(String[] args) {
